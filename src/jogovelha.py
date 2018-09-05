@@ -5,7 +5,7 @@ def inicializar():
 		for j in range(3):
 			linha.append(".")
 		tab.append(linha)
-	return
+	return tab
 
 def main( ):
 	jogo = inicializar( )

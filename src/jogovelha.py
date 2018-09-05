@@ -5,9 +5,9 @@ def inicializar():
 		for j in range(3):
 			linha.append(".")
 		tab.append(linha)
-	return tab
+	return
 
-
+def main( ):
 	jogo = inicializar( )
 	print (jogo)
 
